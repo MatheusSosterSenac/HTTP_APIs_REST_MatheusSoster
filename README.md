@@ -14,7 +14,7 @@ Status HTTP != 200
 
 CEP inválido
 
-3. Como o usuário é informado
+2. Como o usuário é informado
 
 mensagens na tela (Text)
 
@@ -22,7 +22,7 @@ mensagens de erro em vermelho
 
 loading com CircularProgressIndicator
 
-5. Cenários reais
+3. Cenários reais
    
 Sem internet
 
@@ -32,7 +32,7 @@ API fora do ar
 
 Timeout de rede
 
-7. Sem tratamento
+4. Sem tratamento
    
 app quebraria ou mostraria erro genérico
 
